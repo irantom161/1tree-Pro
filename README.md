@@ -197,4 +197,4 @@ This repository serves as the official landing page for 1Tree Pro. The software 
 **Get the most recent version of 1Tree Pro today!**
 
 ---
-**Last updated:** 2026-11-07 22:28:09 UTC
+**Last updated:** 2026-11-08 02:00:13 UTC
